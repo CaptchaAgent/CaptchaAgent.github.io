@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon2.png',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://docs.captchax.top',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'CaptchaAgent', // Usually your GitHub org/user name.
-  projectName: 'hcaptcha-challenger-docs', // Usually your repo name.
+  projectName: 'CaptchaAgent.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/CaptchaAgent/hcaptcha-challenger-docs/tree/main/hcaptcha-challenger-docs/',
+            'https://github.com/CaptchaAgent/docs-source/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/CaptchaAgent/hcaptcha-challenger-docs/tree/main/hcaptcha-challenger-docs/',
+            'https://github.com/CaptchaAgent/docs-source/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
