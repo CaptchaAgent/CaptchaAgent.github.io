@@ -8,7 +8,7 @@
     <subtitle>CaptchaAgent Blog</subtitle>
     <icon>https://docs.captchax.top/zh-Hans/img/favicon2.png</icon>
     <entry>
-        <title type="html"><![CDATA[ViT zero-shot image classification]]></title>
+        <title type="html"><![CDATA[零样本图像分类任务]]></title>
         <id>https://docs.captchax.top/zh-Hans/blog/vit-zero-shot-tasks-1</id>
         <link href="https://docs.captchax.top/zh-Hans/blog/vit-zero-shot-tasks-1"/>
         <updated>2023-10-22T00:00:00.000Z</updated>
@@ -47,7 +47,7 @@
         <category label="hCI challenge" term="hCI challenge"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bot Revolution 2023]]></title>
+        <title type="html"><![CDATA[机器革命 2023]]></title>
         <id>https://docs.captchax.top/zh-Hans/blog/bot-revolution-2023</id>
         <link href="https://docs.captchax.top/zh-Hans/blog/bot-revolution-2023"/>
         <updated>2023-05-15T00:00:00.000Z</updated>
@@ -60,7 +60,7 @@
         <category label="HCI challenge" term="HCI challenge"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can Dogs Smile?]]></title>
+        <title type="html"><![CDATA[秀狗在笑?]]></title>
         <id>https://docs.captchax.top/zh-Hans/blog/can-dogs-smile</id>
         <link href="https://docs.captchax.top/zh-Hans/blog/can-dogs-smile"/>
         <updated>2022-09-22T00:00:00.000Z</updated>
@@ -73,7 +73,7 @@
         <category label="HCI challenge" term="HCI challenge"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How old is that kitten?]]></title>
+        <title type="html"><![CDATA[你家猫猫……几岁！]]></title>
         <id>https://docs.captchax.top/zh-Hans/blog/how-old-is-that-kitten</id>
         <link href="https://docs.captchax.top/zh-Hans/blog/how-old-is-that-kitten"/>
         <updated>2022-08-30T00:00:00.000Z</updated>

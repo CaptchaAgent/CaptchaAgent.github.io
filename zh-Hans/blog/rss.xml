@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <item>
-            <title><![CDATA[ViT zero-shot image classification]]></title>
+            <title><![CDATA[零样本图像分类任务]]></title>
             <link>https://docs.captchax.top/zh-Hans/blog/vit-zero-shot-tasks-1</link>
             <guid>https://docs.captchax.top/zh-Hans/blog/vit-zero-shot-tasks-1</guid>
             <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
@@ -36,7 +36,7 @@
             <category>hCI challenge</category>
         </item>
         <item>
-            <title><![CDATA[Bot Revolution 2023]]></title>
+            <title><![CDATA[机器革命 2023]]></title>
             <link>https://docs.captchax.top/zh-Hans/blog/bot-revolution-2023</link>
             <guid>https://docs.captchax.top/zh-Hans/blog/bot-revolution-2023</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
@@ -45,7 +45,7 @@
             <category>HCI challenge</category>
         </item>
         <item>
-            <title><![CDATA[Can Dogs Smile?]]></title>
+            <title><![CDATA[秀狗在笑?]]></title>
             <link>https://docs.captchax.top/zh-Hans/blog/can-dogs-smile</link>
             <guid>https://docs.captchax.top/zh-Hans/blog/can-dogs-smile</guid>
             <pubDate>Thu, 22 Sep 2022 00:00:00 GMT</pubDate>
@@ -54,7 +54,7 @@
             <category>HCI challenge</category>
         </item>
         <item>
-            <title><![CDATA[How old is that kitten?]]></title>
+            <title><![CDATA[你家猫猫……几岁！]]></title>
             <link>https://docs.captchax.top/zh-Hans/blog/how-old-is-that-kitten</link>
             <guid>https://docs.captchax.top/zh-Hans/blog/how-old-is-that-kitten</guid>
             <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
