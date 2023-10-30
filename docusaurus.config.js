@@ -4,8 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const math = require('remark-math');
-const katex = require('rehype-katex');
+// const math = require('remark-math');
+// const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -30,6 +30,7 @@ const config = {
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
+  // https://docusaurus.io/zh-CN/docs/i18n/git
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-Hans'],
@@ -47,14 +48,14 @@ const config = {
           editUrl:
             'https://github.com/CaptchaAgent/docs-source/tree/main/',
         },
+        // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog#ex-config
         blog: {
-          remarkPlugins: [math],
-          rehypePlugins: [katex],
+          editUrl: 'https://github.com/CaptchaAgent/docs-source/tree/main/',
+          
+          blogSidebarCount: 'ALL',
+
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/CaptchaAgent/docs-source/tree/main/',
+          postsPerPage: 10,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
