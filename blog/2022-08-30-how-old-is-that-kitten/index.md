@@ -2,14 +2,14 @@
 slug: how-old-is-that-kitten
 title: How old is that kitten?
 authors: [QIN2DIM]
-tags: [challenge, HCI]
+tags: [HCI challenge]
 ---
 
 ## Cat Age Chart with Pictures
 
 [Newborn Kitten Progression & Cat Age Chart with Pictures | Alley Cat Allies](https://www.alleycat.org/resources/kitten-progression/)
 
-![7d524620139047c35387c20e1e8ab9e2-1](187274997-15080e3f-36e8-4455-9e63-53909b9b91e0.jpg)
+![7d524620139047c35387c20e1e8ab9e2-1](https://r2-datalake.echosec.top/blog-obs/2023/10/00a48bda62e3acbac8ea005075bb0c5f.jpg)
 
 ## Related work
 
