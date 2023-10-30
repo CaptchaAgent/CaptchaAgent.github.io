@@ -1,6 +1,6 @@
 ---
 slug: can-dogs-smile
-title: Can Dogs Smile?
+title: 秀狗在笑?
 authors: [QIN2DIM]
 tags: [HCI challenge]
 image: Snipaste_2023-10-31_06-34-58.png

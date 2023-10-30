@@ -1,6 +1,6 @@
 ---
 slug: vit-zero-shot-tasks-1
-title: ViT zero-shot image classification
+title: 零样本图像分类任务
 authors: [QIN2DIM]
 tags: [HCI challenge]
 keywords: 

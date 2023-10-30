@@ -1,6 +1,6 @@
 ---
 slug: how-old-is-that-kitten
-title: How old is that kitten?
+title: 你家猫猫……几岁！
 authors: [QIN2DIM]
 tags: [HCI challenge]
 image: 7d524620139047c35387c20e1e8ab9e2-1.png

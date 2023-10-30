@@ -1,6 +1,6 @@
 ---
 slug: bot-revolution-2023
-title: Bot Revolution 2023
+title: 机器革命 2023
 authors: [QIN2DIM]
 tags: [HCI challenge]
 keywords: 
