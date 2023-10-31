@@ -5,7 +5,7 @@ description: Harmonious and friendly open community
 
 ## README
 
-We believe that CaptchaAgent has a different audience than the current solver service. It is entirely possible that you will only need a third-party solver and have no need for a local deployment of CaptchaAgent.
+We believe that CaptchaAgent has a different audience than the current solver service. It's entirely possible that you'll only need a third-party solver and won't need to deploy CaptchaAgent locally.
 
 But all in all, we are pursuing a purely geeky approach and trying to explore the potential and future of the CAPTCHA industry from the perspective of "industry, academia, and research" in the LLM dynasty.
 
