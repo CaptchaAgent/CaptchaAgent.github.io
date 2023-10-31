@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaptchaAgent=self.webpackChunkCaptchaAgent||[]).push([[6430],{9999:e=>{e.exports=JSON.parse('{"permalink":"/zh-Hans/blog/tags/hci-challenge","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

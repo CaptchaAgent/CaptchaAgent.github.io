@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[459],{224:e=>{e.exports=JSON.parse('{"label":"HCI challenge","permalink":"/blog/tags/hci-challenge","allTagsPath":"/blog/tags","count":5}')}}]);

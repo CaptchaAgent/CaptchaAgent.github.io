@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkCaptchaAgent=self.webpackChunkCaptchaAgent||[]).push([[2315],{4986:e=>{e.exports=JSON.parse('[{"label":"HCI challenge","permalink":"/zh-Hans/blog/tags/hci-challenge","count":5},{"label":"hCI challenge","permalink":"/zh-Hans/blog/tags/h-ci-challenge","count":1}]')}}]);
