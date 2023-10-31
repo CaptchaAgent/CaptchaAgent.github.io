@@ -25,7 +25,7 @@ const config = {
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
-  // https://docusaurus.io/zh-CN/docs/i18n/git
+  // https://docusaurus.io/zh-CN/docs/i18n/git#initialize-the-i18n-folder
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'zh-Hans'],
@@ -50,7 +50,7 @@ const config = {
           editUrl: 'https://github.com/CaptchaAgent/docs-source/tree/main/',
 
           blogSidebarCount: 'ALL',
-
+          editLocalizedFiles: true,
           showReadingTime: true,
           postsPerPage: 10,
         },

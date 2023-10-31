@@ -1,6 +1,6 @@
 ---
 slug: please-click-on-the-x
-title: Please click on the X
+title: 在目标上点击
 authors: [QIN2DIM]
 tags: [hCI challenge]
 keywords: 

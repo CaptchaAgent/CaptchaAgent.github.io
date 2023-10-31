@@ -1,6 +1,6 @@
 ---
 slug: draw-a-tight-bounding-box-around-the-x
-title: Draw a tight bounding box around the X
+title: 在目标周围画一个边界框
 authors: [QIN2DIM]
 tags: [HCI challenge]
 keywords: 
