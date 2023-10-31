@@ -1,0 +1,25 @@
+---
+title: Installation
+sidebar_position: 1
+description: Covers the installation of hcaptcha-challenger. 
+---
+
+## PyPI
+
+To install [hcaptcha-challenger](https://pypi.org/project/hcaptcha-challenger/), simply run this simple command in your terminal of choice:
+
+```bash
+pip install -U hcaptcha-challenger
+```
+
+Download the Playwright single instance feature (recommended):
+
+```bash
+pip install -U hcaptcha-challenger[playwright]
+```
+
+## Optional Features
+
+- `playwright`: Download the dependencies associated with <u>Playwright</u>, and you can load human verification directly using hcaptcha-challenger.
+- `sentinel`: Also download <u>Playwright</u> and <u>PyGithub</u> dependencies for developers to collect data and submit datasets.
+- `server`: (🚧preview) Also download `sentinel` and additional <u>fastapi</u> and <u>uvicorn</u> dependencies. In the future we will implement something like CLIP-as-service, where you can load high performance solvers locally.

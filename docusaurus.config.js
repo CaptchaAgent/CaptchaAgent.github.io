@@ -1,11 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
-// const math = require('remark-math');
-// const katex = require('rehype-katex');
+import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -41,6 +36,8 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#configuration
+        // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
@@ -51,7 +48,7 @@ const config = {
         // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog#ex-config
         blog: {
           editUrl: 'https://github.com/CaptchaAgent/docs-source/tree/main/',
-          
+
           blogSidebarCount: 'ALL',
 
           showReadingTime: true,
@@ -99,6 +96,11 @@ const config = {
 
         //... other Algolia params
       },
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        },
+      },
 
       // Replace with your project's social card
       image: 'img/CaptchaAgent-social-card.jpg',
@@ -136,8 +138,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} CaptchaAgent. All right.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.oneLight,
+        darkTheme: prismThemes.dracula,
+        additionalLanguages: ["python", "bash"],
       },
     }),
 };

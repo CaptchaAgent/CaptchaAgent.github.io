@@ -28,6 +28,7 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 } */
+
 /* 设置选中字体的区域背景颜色 */
 ::selection {
   background: #dae3ea;
@@ -41,7 +42,7 @@
 
 ::-webkit-selection {
   background: #dae3ea;
-  color: #34495e;
+  color: #34495e; 
 }
 
 :root {
@@ -55,7 +56,6 @@
   --ifm-font-color-base: #34495e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.059);
-  
 }
 
 [data-theme='dark'] {
